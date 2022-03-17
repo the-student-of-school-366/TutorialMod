@@ -1,0 +1,3 @@
+displayName = TutorialMod
+author = ananda
+version = 0.2
